@@ -17,4 +17,4 @@ class Action
     def minus(a, b)
         a - b
     end
-end    
+end
